@@ -28,7 +28,12 @@ main {
     box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
 }
 
+
 .allergen-main {
+    margin-bottom:7rem;
+}
+.weekly-menu {
+
     margin-bottom: 7rem;
 }
 
